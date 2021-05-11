@@ -1,0 +1,46 @@
+ChargeOption0: [Hex]
+0xE70E
+ChargeCurrent: [Hex]
+0x0040
+MaxChargeVoltage: [Hex]
+0x41A0
+ChargeOption1: [Hex]
+0x0210
+ChargeOption2: [Hex]
+0x02B7
+ChargeOption3: [Hex]
+0x0030
+ProchotOption0: [Hex]
+0x4A65
+ProchotOption1: [Hex]
+0x81A0
+ADCOption: [Hex]
+0x2000
+ChargerStatus: [Hex]
+0x8400
+ProchotStatus: [Hex]
+0xA800
+IIN_DPM: [Hex]
+0x4100
+ADC_VBUS_PSYS: [Hex]
+0x8B00
+ADC_IBAT: [Hex]
+0x0000
+ADC_IINCMPIN: [Hex]
+0x0000
+ADC_VSYS_VBAT: [Hex]
+0x0000
+OTGVoltage: [Hex]
+0x0000
+OTGCurrent: [Hex]
+0x0000
+InputVoltage: [Hex]
+0x1DC0
+MinSystemVoltage: [Hex]
+0x3000
+IIN_HOST: [Hex]
+0x4100
+ManufactureID: [Hex]
+0x8840
+DeviceID: [Hex]
+0x1088
